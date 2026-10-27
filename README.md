@@ -37,11 +37,11 @@ Gwent Analyst is an agentic research and analysis program for GWENT: The Witcher
 The project began as a logical knowledgebase governed by a plain-text runtime, building on my 2026 publication, *Gwent: The Quantitative Strategy Manual*. It has since developed into a program that carries that research methodology into software, enabling an agent to gather evidence, test strategic hypotheses, and build on validated findings, which it demonstrates though its interactions as an LLM assistant.
 
 ### Project Kinetic
-**Physics-based time-trial game · Discovery phase · Private**
+**Physics-based time-trial game · Standalone · Private**
 
-An independently developed game project exploring responsive movement, predictable physics, and replayable challenges. Currently in discovery, with an emphasis on a focused scope and a cohesive, polished player experience.
+A game built around precise movement, predictable physics, and replayable courses. The focus is on learning how the environment responds, finding routes, and refining execution to improve completion times.
 
-The project is being developed privately; design details and implementation remain unpublished.
+Straightforward objectives leave room for experimentation and mastery, with an emphasis on responsive controls and a cohesive player experience.
 
 ## What I bring
 
