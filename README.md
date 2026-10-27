@@ -36,12 +36,12 @@ An extremely robust terminal simulator for exploring identities, groups, elevati
 Gwent Analyst is an agentic research and analysis program for GWENT: The Witcher Card Game. It combines an evolving knowledge base, a normalized rules kernel, and a proprietary structured analytical system (Axiom Engine) to support card interaction research, deck analysis, probability modeling, and detailed strategy reports.
 The project began as a logical knowledgebase governed by a plain-text runtime, building on my 2026 publication, *Gwent: The Quantitative Strategy Manual*. It has since developed into a program that carries that research methodology into software, enabling an agent to gather evidence, test strategic hypotheses, and build on validated findings, which it demonstrates though its interactions as an LLM assistant.
 
-### Signal Drift
-**Science-fiction signal-operations game · Standalone · Private**
+### Project Kinetic
+**Physics-based time-trial game · Discovery phase · Private**
 
-A compact, standalone game about recovering information under pressure. Its first playable mission takes place on a single screen with one fictional target: Vesper Relay. Recover a Lumen shard, clear the echoes your tools leave behind, and disconnect before the link window closes or suspicion reaches its limit.
+An independently developed game project exploring responsive movement, predictable physics, and replayable challenges. Currently in discovery, with an emphasis on a focused scope and a cohesive, polished player experience.
 
-The gameplay centers on balancing progress, cleanup, and a timely exit within a tightly scoped science-fiction mission.
+The project is being developed privately; design details and implementation remain unpublished.
 
 ## What I bring
 
