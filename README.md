@@ -1,7 +1,7 @@
 # Andrew Nelson
 **Cobblecat · Complex Systems Design and Implementation · Python · Security · Analytics**
 
-I've led **40+ warehouse management system implementations**, taking customer deployments through configuration, data migration, testing, training, and go-live. My work has involved Python and SQL, AS/400 systems, account and role configuration, and troubleshooting across warehouse software and automation. I'm a certified crime analyst, a licensed teacher, and educated in Computer Security and Information Assurance. When I'm not working... I'm working on projects. 
+I've led **40+ warehouse management system implementations**, taking customer deployments through configuration, data migration, testing, training, and go-live. My work has involved Python and SQL, AS/400 systems, account and role configuration, and troubleshooting across warehouse software and automation. I'm a certified traffic crash reconstructionist, a licensed teacher, and educated in Computer Security and Information Assurance. When I'm not working... I'm working on projects. 
 
 That experience shapes my independent development and security work: understanding system behavior, protecting data integrity, and defining what users and tools should be allowed to do.
 
@@ -19,9 +19,9 @@ The architecture separates the WMS, scenario drivers, and analysis so an investi
 ### [Drag Factor](https://github.com/Cobblecat/Drag-Factor)
 **Physics-informed vehicle dynamics · Prototype · Public**
 
-A newly initiated prototype exploring how speed, road curvature, and surface conditions influence vehicle behavior. The aim is to make vehicle dynamics tangible through a driving experience grounded in physical principles.
+A newly initiated prototype exploring how speed, road curvature, and surface conditions influence vehicle behavior. The aim is to make vehicle dynamics tangible through a driving experience grounded in industry standard crash reconstruction and investigative principles.
 
-The initial direction is a large oval roadway for exploring speed management through curves, with the vehicle model and course design still taking shape.
+The initial prototype is still being developed and overall design is in its infancy. 
 
 *Public, early development. Scope and design are evolving.*
 
