@@ -16,6 +16,15 @@ The architecture separates the WMS, scenario drivers, and analysis so an investi
 
 *Public, actively developed. Uses synthetic data; scoped as a simulation and investigation project.*
 
+### [Drag Factor](https://github.com/Cobblecat/Drag-Factor)
+**Physics-informed vehicle dynamics · Prototype · Public**
+
+A newly initiated prototype exploring how speed, road curvature, and surface conditions influence vehicle behavior. The aim is to make vehicle dynamics tangible through a driving experience grounded in physical principles.
+
+The initial direction is a large oval roadway for exploring speed management through curves, with the vehicle model and course design still taking shape.
+
+*Public, early development. Scope and design are evolving.*
+
 ### [Sheikah Lens](https://github.com/Cobblecat/The-Lens)
 **Agentic gameplay aide · Python · GPT-5.6 Terra · Experimental · Private**
 
@@ -35,13 +44,6 @@ An extremely robust terminal simulator for exploring identities, groups, elevati
 
 Gwent Analyst is an agentic research and analysis program for GWENT: The Witcher Card Game. It combines an evolving knowledge base, a normalized rules kernel, and a proprietary structured analytical system (Axiom Engine) to support card interaction research, deck analysis, probability modeling, and detailed strategy reports.
 The project began as a logical knowledgebase governed by a plain-text runtime, building on my 2026 publication, *Gwent: The Quantitative Strategy Manual*. It has since developed into a program that carries that research methodology into software, enabling an agent to gather evidence, test strategic hypotheses, and build on validated findings, which it demonstrates though its interactions as an LLM assistant.
-
-### Project Kinetic
-**Physics-based time-trial game · Standalone · Private**
-
-A game built around precise movement, predictable physics, and replayable courses. The focus is on learning how the environment responds, finding routes, and refining execution to improve completion times.
-
-Straightforward objectives leave room for experimentation and mastery, with an emphasis on responsive controls and a cohesive player experience.
 
 ## What I bring
 
