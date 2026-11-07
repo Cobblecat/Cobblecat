@@ -7,6 +7,13 @@ That experience shapes my independent development and security work: understandi
 
 ## Selected projects
 
+### Drag Factor
+**Interactive crash laboratory · Unity · Early development**
+
+An interactive crash laboratory exploring how speed, road curvature, and surface conditions influence vehicle behavior. The project builds on my background in traffic crash reconstruction, with the aim of making vehicle dynamics tangible through educational and investigative exploration.
+
+*Early prototype. Simulation accuracy has not yet been validated for crash reconstruction work.*
+
 ### [OVTK](https://github.com/Cobblecat/OVTK)
 **Operational Variance Investigation Toolkit · Python · SQLite · Public**
 
@@ -15,13 +22,6 @@ A local miniature WMS and synthetic warehouse simulator with an interactive cons
 The architecture separates the WMS, scenario drivers, and analysis so an investigation works from operational evidence without access to the hidden answer.
 
 *Public, actively developed. Uses synthetic data; scoped as a simulation and investigation project.*
-
-### Drag Factor
-**Interactive crash laboratory · Unity · Early development**
-
-An interactive crash laboratory exploring how speed, road curvature, and surface conditions influence vehicle behavior. The project builds on my background in traffic crash reconstruction, with the aim of making vehicle dynamics tangible through educational and investigative exploration.
-
-*Early prototype. Simulation accuracy has not yet been validated for crash reconstruction work.*
 
 ### [Sheikah Lens](https://github.com/Cobblecat/The-Lens)
 **Agentic gameplay aide · Python · GPT-5.6 Terra · Experimental · Private**
