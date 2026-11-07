@@ -16,14 +16,12 @@ The architecture separates the WMS, scenario drivers, and analysis so an investi
 
 *Public, actively developed. Uses synthetic data; scoped as a simulation and investigation project.*
 
-### [Drag Factor](https://github.com/Cobblecat/Drag-Factor)
-**Physics-informed vehicle dynamics · Prototype · Public**
+### Drag Factor
+**Interactive crash laboratory · Unity · Early development**
 
-A newly initiated prototype exploring how speed, road curvature, and surface conditions influence vehicle behavior. The aim is to make vehicle dynamics tangible through a driving experience grounded in industry standard crash reconstruction and investigative principles.
+An interactive crash laboratory exploring how speed, road curvature, and surface conditions influence vehicle behavior. The project builds on my background in traffic crash reconstruction, with the aim of making vehicle dynamics tangible through educational and investigative exploration.
 
-The initial prototype is still being developed and overall design is in its infancy. 
-
-*Public, early development. Scope and design are evolving.*
+*Early prototype. Simulation accuracy has not yet been validated for crash reconstruction work.*
 
 ### [Sheikah Lens](https://github.com/Cobblecat/The-Lens)
 **Agentic gameplay aide · Python · GPT-5.6 Terra · Experimental · Private**
